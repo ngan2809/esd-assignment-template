@@ -8,9 +8,7 @@ Mô tả ngắn gọn về mục tiêu của bài tập này (ví dụ: Lập tr
 
 |STT| | Họ và Tên    |
 |---|
-| 1 | | Nguyễn Văn A |
-| 2 | | Trần Thị B   |
-| 3 | | Lê Văn C     |
+| 1 | | Nguyễn Thị Thanh Ngân |
 
 ---
 
@@ -31,4 +29,5 @@ Mô tả ngắn gọn về mục tiêu của bài tập này (ví dụ: Lập tr
 ---
 ## Video Demo
 
-(Dán link YouTube video demo sản phẩm tại đây)
+
+[(Dán link YouTube video demo sản phẩm tại đây)](https://drive.google.com/file/d/16oMEDBPFgLGz8afporbhSGuuizIGHYzi/view?usp=drive_link)
